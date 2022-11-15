@@ -1,7 +1,15 @@
-<h1 align="center">Hi, call me <u>Chris</u>.</h1>
+<h1 align="center">Hi, call me Chris.</h1>
 <p>I am currently a BS Computer Science student, and I like doing random things that are related to computers and technology.</p>
 
-<h2>Currently Active Projects</h2>
+<p>You can contact me using the following:</p>
+<ul>
+    <li>📧 Email: <a href="mailto:chris1320is@proton.me"><i>chris1320is@proton.me</i></a></li>
+    <li><img src="https://matrix.org/favicon-32x32.png" width="16px" height="16px"></img> Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
+</ul>
+
+<img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img>
+
+<h2>Currently Active Public Projects</h2>
 <a href="https://github.com/Chris1320/ConfigHandler-python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chris1320&repo=ConfigHandler-python&theme=nightowl&hide_border=true&locale=en" align="center"></img>
 </a>
