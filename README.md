@@ -11,10 +11,10 @@
 
 <h2>Currently Active Public Projects</h2>
 <a href="https://github.com/Chris1320/ConfigHandler-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chris1320&repo=ConfigHandler-python&theme=nightowl&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chris1320&repo=ConfigHandler-python&theme=nightowl&hide_border=true&locale=en" align="center"></img>
 </a>
 
 <hr/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=nightowl&hide_border=true&locale=en" align="center"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&theme=nightowl&hide_border=true&locale=en" align="center"></img>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Chris1320&theme=nightowl&hide_border=true&locale=en" align="center"></img>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&theme=nightowl&hide_border=true&locale=en" align="center"></img>
