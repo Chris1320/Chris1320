@@ -10,8 +10,8 @@
 <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img>
 
 <h2>Currently Active Public Projects</h2>
-<a href="https://github.com/Chris1320/ConfigHandler-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=ConfigHandler-python&theme=transparent&hide_border=true&locale=en" align="center"></img>
+<a href="https://github.com/SetupGuides/ArchLinux">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=ArchLinux&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/SetupGuides/Neovim">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=transparent&hide_border=true&locale=en" align="center"></img>
