@@ -1,13 +1,36 @@
-<h1 align="center">Hi, call me Chris.</h1>
-<p>I am currently a BS Computer Science student, and I like doing random things that are related to computers and technology.</p>
-
+<div align="center">
+    <h1>Hi, call me Chris.</h1>
+    <p>I am currently a BS Computer Science student, and I like doing random things that are related to computers and technology.<br/>I am currently studying and aiming to be a full-stack developer.</p>
+    <br/>
+    <table>
+        <thead><td colspan="2"><b>Toolkit</b></td></thead>
+        <tbody>
+            <tr>
+                <td>Languages</td>
+                <td><img src="https://skillicons.dev/icons?i=py,lua,cs,bash"/></td>
+            </tr>
+            <tr>
+                <td>Frameworks/Services</td>
+                <td><img src="https://skillicons.dev/icons?i=flask,qt,git,github,linux,postgres"/></td>
+            </tr>
+            <tr>
+                <td>Media Editing</td>
+                <td><img src="https://skillicons.dev/icons?i=ps,pr,ae,au"/></td>
+            </tr>
+            <tr>
+                <td>IDEs/Code Editors</td>
+                <td><img src="https://skillicons.dev/icons?i=neovim,idea,vscode"/></td>
+            </tr>
+        </tbody>
+    </table>
+    <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img>
+</div>
+<hr/>
 <p>You can contact me using the following:</p>
 <ul>
-    <li><img src="https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg" width="16px" height="16px"></img> Email: <a href="mailto:chris1320is@proton.me"><i>chris1320is@proton.me</i></a></li>
-    <li><img src="https://matrix.org/favicon-32x32.png" width="16px" height="16px"></img> Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
+    <li>Email: <a href="mailto:chris1320is@proton.me"><i>chris1320is@proton.me</i></a></li>
+    <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
 </ul>
-
-<img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img>
 
 <h2>Currently Active Public Projects</h2>
 <a href="https://github.com/SetupGuides/ArchLinux">
