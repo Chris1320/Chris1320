@@ -11,7 +11,7 @@
             </tr>
             <tr>
                 <td>Frameworks/Services</td>
-                <td><img src="https://skillicons.dev/icons?i=flask,qt,git,github,linux,postgres"/></td>
+                <td><img src="https://skillicons.dev/icons?i=docker,flask,git,linux,postgres,qt"/></td>
             </tr>
             <tr>
                 <td>Media Editing</td>
@@ -19,7 +19,7 @@
             </tr>
             <tr>
                 <td>IDEs/Code Editors</td>
-                <td><img src="https://skillicons.dev/icons?i=neovim,idea,vscode"/></td>
+                <td><img src="https://skillicons.dev/icons?i=neovim,vscode,idea,visualstudio"/></td>
             </tr>
         </tbody>
     </table>
