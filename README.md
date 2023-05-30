@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi, call me Chris.</h1>
-    <p>I am currently a BS Computer Science student, and I like doing random things that are related to computers and technology.<br/>I am currently studying and aiming to be a full-stack developer.</p>
+    <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology.</p>
     <br/>
     <table>
         <thead><td colspan="2"><b>Toolkit</b></td></thead>
