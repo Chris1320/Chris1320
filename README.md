@@ -7,11 +7,11 @@
         <tbody>
             <tr>
                 <td>Languages</td>
-                <td><img src="https://skillicons.dev/icons?i=py,lua,cs,bash"/></td>
+                <td><img src="https://skillicons.dev/icons?i=py,lua,c,cs,bash"/></td>
             </tr>
             <tr>
                 <td>Frameworks/Services</td>
-                <td><img src="https://skillicons.dev/icons?i=docker,flask,git,linux,postgres,qt"/></td>
+                <td><img src="https://skillicons.dev/icons?i=cloudflare,flask,git,postgres,qt"/></td>
             </tr>
             <tr>
                 <td>Media Editing</td>
