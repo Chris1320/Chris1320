@@ -7,7 +7,7 @@
         <tbody>
             <tr>
                 <td>Languages</td>
-                <td><img src="https://skillicons.dev/icons?i=py,lua,c,cs,bash"/></td>
+                <td><img src="https://skillicons.dev/icons?i=py,lua,cs,c,bash"/></td>
             </tr>
             <tr>
                 <td>Frameworks/Services</td>
