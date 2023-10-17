@@ -34,13 +34,13 @@
 
 <h2>Currently Active Public Projects</h2>
 <a href="https://github.com/SetupGuides/Neovim">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=ArchLinux&theme=transparent&hide_border=true&locale=en" align="center"></img>
-</a>
-<a href="https://github.com/SetupGuides/RestEasy">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
-<a href="https://github.com/Chris1320/Fedora">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=ConfigHandler-Lua&theme=transparent&hide_border=true&locale=en" align="center"></img>
+<a href="https://github.com/Chris1320/RestEasy">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=RestEasy&theme=transparent&hide_border=true&locale=en" align="center"></img>
+</a>
+<a href="https://github.com/SetupGuides/Fedora">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Fedora&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320/MacroKeyboard">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=MacroKeyboard&theme=transparent&hide_border=true&locale=en" align="center"></img>
