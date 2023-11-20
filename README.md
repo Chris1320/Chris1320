@@ -23,7 +23,7 @@
             </tr>
         </tbody>
     </table>
-    <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img>
+    <!-- <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img> -->
 </div>
 <hr/>
 <p>You can contact me using the following:</p>
