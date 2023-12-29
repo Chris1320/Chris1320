@@ -42,8 +42,8 @@
 <a href="https://github.com/SetupGuides/ArchLinux">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=ArchLinux&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
-<a href="https://github.com/Chris1320/MacroKeyboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=MacroKeyboard&theme=transparent&hide_border=true&locale=en" align="center"></img>
+<a href="https://github.com/Chris1320/copyt">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=copyt&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 
 <hr/>
