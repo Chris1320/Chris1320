@@ -49,9 +49,9 @@
 <hr/>
 
 <a href="https://github.com/Chris1320?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=github_dark&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&theme=github_dark&hide_border=true&locale=en" align="center"></img><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&theme=github_dark" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&theme=transparent&hide_border=true&locale=en" align="center"></img><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&theme=transparent" align="center"></img>
 </a>
