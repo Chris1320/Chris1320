@@ -7,15 +7,15 @@
         <tbody>
             <tr>
                 <td>Languages</td>
-                <td><img src="https://skillicons.dev/icons?i=py,lua,cs,c,bash"/></td>
+                <td><img src="https://skillicons.dev/icons?i=py,lua,cs,java,c,typescript,bash"/></td>
             </tr>
             <tr>
                 <td>Frameworks/Services</td>
-                <td><img src="https://skillicons.dev/icons?i=cloudflare,flask,git,postgres,qt"/></td>
+                <td><img src="https://skillicons.dev/icons?i=cloudflare,flask,git,postgres,qt,react,vue"/></td>
             </tr>
             <tr>
                 <td>Media Editing</td>
-                <td><img src="https://skillicons.dev/icons?i=ps,pr,ae,au"/></td>
+                <td><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,au"/></td>
             </tr>
             <tr>
                 <td>IDEs/Code Editors</td>
