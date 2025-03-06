@@ -28,7 +28,7 @@
 <hr/>
 <p>You can contact me using the following:</p>
 <ul>
-    <li>Email: <a href="mailto:chris1320is@proton.me"><i>chris1320is@proton.me</i></a></li>
+    <li>Email: <a href="mailto:me@chrisfromnowhere.me"><i>me@chrisfromnowhere.me</i></a></li>
     <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
 </ul>
 
