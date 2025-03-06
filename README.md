@@ -36,8 +36,8 @@
 <a href="https://github.com/SetupGuides/Neovim">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
-<a href="https://github.com/Chris1320/RestEasy">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=RestEasy&theme=transparent&hide_border=true&locale=en" align="center"></img>
+<a href="https://github.com/Chris1320/inTransit">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=inTransit&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/SetupGuides/ArchLinux">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=ArchLinux&theme=transparent&hide_border=true&locale=en" align="center"></img>
