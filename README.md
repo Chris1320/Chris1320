@@ -36,11 +36,11 @@
 <a href="https://github.com/SetupGuides/Neovim">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
+<a href="https://github.com/Chris1320/Genesis">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=Genesis&theme=transparent&hide_border=true&locale=en" align="center"></img>
+</a>
 <a href="https://github.com/Chris1320/inTransit">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=inTransit&theme=transparent&hide_border=true&locale=en" align="center"></img>
-</a>
-<a href="https://github.com/SetupGuides/ArchLinux">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=ArchLinux&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320/copyt">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=copyt&theme=transparent&hide_border=true&locale=en" align="center"></img>
