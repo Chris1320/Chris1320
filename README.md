@@ -49,7 +49,7 @@
 <hr/>
 
 <a href="https://wakatime.com/@Chris3120">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=transparent&hide_border=true&locale=en" align="center"></img>
