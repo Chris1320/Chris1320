@@ -34,27 +34,28 @@
 
 <h2>Currently Active Public Projects</h2>
 <a href="https://github.com/SetupGuides/Neovim">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=transparent&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=gotham&show_icons=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320/Genesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=Genesis&theme=transparent&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=Genesis&theme=gotham&show_icons=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320/inTransit">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=inTransit&theme=transparent&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=inTransit&theme=gotham&show_icons=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320/copyt">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=copyt&theme=transparent&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=copyt&theme=gotham&show_icons=true&locale=en" align="center"></img>
 </a>
 
 <hr/>
-
+<a href="https://github.com/Chris1320">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&theme=gotham&show_icons=true" align="center"></img>
+</a>
 <a href="https://wakatime.com/@Chris3120">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&theme=transparent&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&theme=gotham&show_icons=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=transparent&hide_border=true&locale=en" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=gotham&show_icons=true&locale=en" align="center"></img>
 </a>
 <a href="https://github.com/Chris1320">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&theme=transparent&hide_border=true&locale=en" align="center"></img><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&theme=transparent" align="center"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&theme=gotham&show_icons=true&locale=en" align="center"></img><br/>
 </a>
