@@ -23,7 +23,7 @@
             </tr>
         </tbody>
     </table>
-    <!-- <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img> -->
+    <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img>
 </div>
 <hr/>
 <p>You can contact me using the following:</p>
@@ -48,6 +48,9 @@
 
 <hr/>
 
+<a href="https://wakatime.com/@Chris3120">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Chris1320" align="center"></img>
+</a>
 <a href="https://github.com/Chris1320?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
