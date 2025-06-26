@@ -194,16 +194,16 @@
     <picture>
         <source
             height="200"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham&card_width=640"
             media="(prefers-color-scheme: dark)"
         />
         <source
             height="200"
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=vue"
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=vue&card_width=640"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en&card_width=640"
             alt="Profile Details"
         />
     </picture>
