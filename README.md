@@ -3,6 +3,38 @@
 <div align="center">
     <!-- Header -->
     <h1>Hi 👋, call me Chris.</h1>
+    <!-- Badges -->
+    <div>
+        <a href="https://github.com/Chris1320">
+            <picture>
+                <source srcset="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+            </picture>
+        </a>
+        <a href="https://wakapi.chrisfromnowhere.me/"> <!-- TODO: Wakapi profile -->
+            <picture>
+                <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" alt="Followers" />
+            </picture>
+        </a>
+        <a href="https://github.com/Chris1320?tab=repositories&q=&type=&language=&sort=stargazers">
+            <picture>
+                <source srcset="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" alt="Stars" />
+            </picture>
+        </a>
+        <a href="mailto:work@chrisfromnowhere.me"> <!-- TODO: Redirect to portfolio site -->
+            <picture>
+                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" alt="Hireable" />
+            </picture>
+        </a>
+    </div>
+    <!-- Description -->
     <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology.</p>
     <br />
     <!-- Toolkit -->
@@ -144,37 +176,6 @@
             </tr>
         </tbody>
     </table>
-    <!-- Badges -->
-    <div>
-        <a href="https://github.com/Chris1320">
-            <picture>
-                <source srcset="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-            </picture>
-        </a>
-        <a href="https://wakapi.chrisfromnowhere.me/"> <!-- TODO: Wakapi profile -->
-            <picture>
-                <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" alt="Followers" />
-            </picture>
-        </a>
-        <a href="https://github.com/Chris1320?tab=repositories&q=&type=&language=&sort=stargazers">
-            <picture>
-                <source srcset="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img src="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" alt="Stars" />
-            </picture>
-        </a>
-        <a href="mailto:work@chrisfromnowhere.me"> <!-- TODO: Redirect to portfolio site -->
-            <picture>
-                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img src="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" alt="Hireable" />
-            </picture>
-        </a>
-    </div>
 </div>
 <hr/>
 <div>
