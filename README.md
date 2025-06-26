@@ -239,24 +239,7 @@
             />
         </picture>
     </a>
-    <a href="https://github.com/Chris1320">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=gotham"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=vue"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img
-                src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en"
-                alt="GitHub Stats"
-            />
-        </picture>
-    </a>
-    <br />
-    <!-- <a href="https://github.com/Chris1320?tab=repositories">
+    <a href="https://github.com/Chris1320?tab=repositories">
         <picture>
             <source
                 srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
@@ -272,14 +255,34 @@
             />
         </picture>
     </a>
-    <br /> -->
+    <br />
+    <a href="https://github.com/Chris1320">
+        <picture>
+            <source
+                height="200"
+                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=gotham"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                height="200"
+                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=vue"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img
+                src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en"
+                alt="GitHub Stats"
+            />
+        </picture>
+    </a>
     <a href="https://wakatime.com/@Chris3120">
         <picture>
             <source
+                height="200"
                 srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=gotham"
                 media="(prefers-color-scheme: dark)"
             />
             <source
+                height="200"
                 srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=vue"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
