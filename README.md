@@ -6,12 +6,12 @@
     <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology.</p>
     <br />
     <!-- Toolkit -->
-    <table align="left">
+    <table>
         <thead><td colspan="2"><b>Toolkit</b></td></thead>
         <tbody>
             <tr>
                 <td>Backend Technologies</td>
-                <td>
+                <td align="left">
                     <picture>
                         <source
                             srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
@@ -30,7 +30,7 @@
             </tr>
             <tr>
                 <td>Frontend Technologies</td>
-                <td>
+                <td align="left">
                     <picture>
                         <source
                             srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
@@ -49,7 +49,7 @@
             </tr>
             <tr>
                 <td>Database Technologies</td>
-                <td>
+                <td align="left">
                     <picture>
                         <source
                             srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=mysql%2Cpostgres%2Csqlite"
@@ -68,7 +68,7 @@
             </tr>
             <tr>
                 <td>DevOps/Cloud Technologies</td>
-                <td>
+                <td align="left">
                     <picture>
                         <source
                             srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
@@ -87,7 +87,7 @@
             </tr>
             <tr>
                 <td>Media Editing</td>
-                <td>
+                <td align="left">
                     <picture>
                         <source
                             srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
@@ -106,7 +106,7 @@
             </tr>
             <tr>
                 <td>IDEs/Editors</td>
-                <td>
+                <td align="left">
                     <picture>
                         <source
                             srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
@@ -125,7 +125,7 @@
             </tr>
             <tr>
                 <td>Operating Systems</td>
-                <td>
+                <td align="left">
                     <picture>
                         <source
                             srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
