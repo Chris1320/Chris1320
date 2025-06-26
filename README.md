@@ -153,11 +153,11 @@
                 <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" alt="Profile Views" />
             </picture>
         </a>
-        <a href="https://github.com/Chris1320?tab=followers">
+        <a href="https://wakapi.chrisfromnowhere.me/"> <!-- TODO: Wakapi profile -->
             <picture>
-                <source srcset="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img src="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" alt="Followers" />
+                <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" alt="Followers" />
             </picture>
         </a>
         <a href="https://github.com/Chris1320?tab=repositories&q=&type=&language=&sort=stargazers">
@@ -229,7 +229,7 @@
         </picture>
     </a>
     <!-- Wakapi Stats -->
-    <a href="https://wakapi.chrisfromnowhere.me/">
+    <a href="https://wakapi.chrisfromnowhere.me/"> <!-- TODO: Wakapi profile -->
         <picture>
             <source
                 height="200"
