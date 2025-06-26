@@ -259,12 +259,12 @@
     <a href="https://github.com/Chris1320">
         <picture>
             <source
-                height="200"
+                height="175"
                 srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=gotham&card_width=320"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="200"
+                height="175"
                 srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=vue&card_width=320"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
@@ -277,12 +277,12 @@
     <a href="https://wakatime.com/@Chris3120">
         <picture>
             <source
-                height="200"
+                height="175"
                 srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=gotham&card_width=320"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="200"
+                height="175"
                 srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=vue&card_width=320"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
