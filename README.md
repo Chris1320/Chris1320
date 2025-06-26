@@ -246,12 +246,12 @@
     <a href="https://github.com/Chris1320">
         <picture>
             <source
-                height="200"
+                height="175"
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=gotham"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="200"
+                height="175"
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=vue"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
@@ -266,12 +266,12 @@
         <picture>
             <source
                 height="175"
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris&theme=gotham&utcOffset=+8"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris&utcOffset=+8&theme=gotham"
                 media="(prefers-color-scheme: dark)"
             />
             <source
                 height="175"
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris&theme=vue&utcOffset=+8"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris&utcOffset=+8&theme=vue"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img
