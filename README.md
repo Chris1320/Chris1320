@@ -35,14 +35,16 @@
         </a>
     </div>
     <!-- Description & Contact Info -->
-    <div>
-        <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology. You can contact me in the following platforms:</p>
-        <ul align="left">
+    <div align="left">
+        <div align="center">
+            <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology. You can contact me in the following platforms:</p>
+        </div>
+        <ul>
             <li>Email: <a href="mailto:me@chrisfromnowhere.me"><i>me@chrisfromnowhere.me</i></a></li>
             <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
         </ul>
         <p>For professional or work-related inquiries, please use the following contact methods:</p>
-        <ul align="left">
+        <ul>
             <li>Email: <a href="mailto:work@chrisfromnowhere.me"><i>work@chrisfromnowhere.me</i></a></li>
         </ul>
     </div>
