@@ -286,4 +286,22 @@
             />
         </picture>
     </a>
+    <br />
+    <a href="https://wakapi.chrisfromnowhere.me/">
+        <picture>
+            <source
+                srcset="https://wakapi.chrisfromnowhere.me/api/activity/chart/Chris.svg"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                height="175"
+                srcset="https://wakapi.chrisfromnowhere.me/api/activity/chart/Chris.svg"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img
+                src="https://wakapi.chrisfromnowhere.me/api/activity/chart/Chris.svg"
+                alt="Wakapi Heatmap"
+            />
+        </picture>
+    </a>
 </div>
