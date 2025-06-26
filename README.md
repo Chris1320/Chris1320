@@ -6,7 +6,7 @@
     <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology.</p>
     <br />
     <!-- Toolkit -->
-    <table>
+    <table align="left">
         <thead><td colspan="2"><b>Toolkit</b></td></thead>
         <tbody>
             <tr>
