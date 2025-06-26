@@ -225,6 +225,24 @@
             />
         </picture>
     </a>
+    <a href="https://wakapi.chrisfromnowhere.me/">
+        <picture>
+            <source
+                height="175"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&theme=gotham&card_width=320"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                height="175"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&theme=vue&card_width=320"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img
+                src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&card_width=320"
+                alt="Wakatime Stats"
+            />
+        </picture>
+    </a>
     <a href="https://github.com/Chris1320">
         <picture>
             <source
@@ -244,7 +262,7 @@
         </picture>
     </a>
     <br />
-    <a href="https://wakapi.chrisfromnowhere.me/">
+    <a href="https://github.com/Chris1320">
         <picture>
             <source
                 height="175"
@@ -258,23 +276,7 @@
             />
             <img
                 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris&utcOffset=+8"
-                alt="Profile Details"
-            />
-        </picture>
-        <picture>
-            <source
-                height="175"
-                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&theme=gotham&card_width=320"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                height="175"
-                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&theme=vue&card_width=320"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img
-                src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&card_width=320"
-                alt="Wakatime Stats"
+                alt="Productive Time"
             />
         </picture>
     </a>
