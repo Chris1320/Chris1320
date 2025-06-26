@@ -232,16 +232,16 @@
         <picture>
             <source
                 height="200"
-                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&theme=gotham&card_width=320"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Time&layout=compact&locale=en&theme=gotham&card_width=320"
                 media="(prefers-color-scheme: dark)"
             />
             <source
                 height="200"
-                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&theme=vue&card_width=320"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Time&layout=compact&locale=en&theme=vue&card_width=320"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img
-                src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&card_width=320"
+                src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Time&layout=compact&locale=en&card_width=320"
                 alt="Wakapi Stats"
             />
         </picture>
