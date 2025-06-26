@@ -290,12 +290,12 @@
     <a href="https://wakapi.chrisfromnowhere.me/">
         <picture>
             <source
-                srcset="https://wakapi.chrisfromnowhere.me/api/activity/chart/Chris.svg"
+                srcset="https://wakapi.chrisfromnowhere.me/api/activity/chart/Chris.svg?dark=true"
                 media="(prefers-color-scheme: dark)"
             />
             <source
                 height="175"
-                srcset="https://wakapi.chrisfromnowhere.me/api/activity/chart/Chris.svg"
+                srcset="https://wakapi.chrisfromnowhere.me/api/activity/chart/Chris.svg?dark=false"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img
