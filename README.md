@@ -206,22 +206,6 @@
                 alt="Profile Details"
             />
         </picture>
-        <picture>
-            <source
-                height="200"
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=gotham"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                height="200"
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=vue"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img
-                src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320"
-                alt="Profile Details"
-            />
-        </picture>
     </a>
     <a href="https://github.com/Chris1320?tab=repositories">
         <picture>
@@ -238,6 +222,24 @@
             <img
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en"
                 alt="Top Languages Used"
+            />
+        </picture>
+    </a>
+    <a href="https://github.com/Chris1320">
+        <picture>
+            <source
+                height="200"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=gotham"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                height="200"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=vue"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img
+                src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320"
+                alt="Profile Details"
             />
         </picture>
     </a>
