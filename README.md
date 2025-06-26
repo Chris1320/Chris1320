@@ -179,7 +179,7 @@
 <hr/>
 <div>
     <!-- Contact Info -->
-    <p>You can contact me using the following:</p>
+    <p>You can contact me in the following platforms:</p>
     <ul>
         <li>Email: <a href="mailto:me@chrisfromnowhere.me"><i>me@chrisfromnowhere.me</i></a></li>
         <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
