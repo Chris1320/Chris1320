@@ -4,7 +4,7 @@
     <!-- Header -->
     <h1>Hi 👋, call me Chris.</h1>
     <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology.</p>
-    <br/>
+    <br />
     <!-- Toolkit -->
     <table>
         <thead><td colspan="2"><b>Toolkit</b></td></thead>
@@ -238,22 +238,6 @@
         />
     </picture>
 </a>
-<a href="https://github.com/Chris1320?tab=repositories">
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=vue"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en"
-            alt="Top Languages Used"
-        />
-    </picture>
-</a>
 <a href="https://github.com/Chris1320">
     <picture>
         <source
@@ -270,6 +254,24 @@
         />
     </picture>
 </a>
+<br />
+<a href="https://github.com/Chris1320?tab=repositories">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en"
+            alt="Top Languages Used"
+        />
+    </picture>
+</a>
+<br />
 <a href="https://wakatime.com/@Chris3120">
     <picture>
         <source
