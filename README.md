@@ -208,6 +208,7 @@
             />
         </picture>
     </a>
+    <br />
     <!-- GitHub Top Languages -->
     <a href="https://github.com/Chris1320?tab=repositories">
         <picture>
