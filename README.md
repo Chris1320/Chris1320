@@ -191,6 +191,7 @@
 </div>
 <hr/>
 <div align="center">
+    <!-- GitHub Profile Details -->
     <a href="https://github.com/Chris1320">
         <picture>
             <source
@@ -207,6 +208,7 @@
             />
         </picture>
     </a>
+    <!-- GitHub Top Languages -->
     <a href="https://github.com/Chris1320?tab=repositories">
         <picture>
             <source
@@ -225,6 +227,7 @@
             />
         </picture>
     </a>
+    <!-- Wakapi Stats -->
     <a href="https://wakapi.chrisfromnowhere.me/">
         <picture>
             <source
@@ -239,10 +242,12 @@
             />
             <img
                 src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.chrisfromnowhere.me&username=Chris&show_icons=true&hide_border=true&custom_title=Coding%20Stats&layout=compact&locale=en&card_width=320"
-                alt="Wakatime Stats"
+                alt="Wakapi Stats"
             />
         </picture>
     </a>
+    <br />
+    <!-- GitHub Profile Details -->
     <a href="https://github.com/Chris1320">
         <picture>
             <source
@@ -261,7 +266,7 @@
             />
         </picture>
     </a>
-    <br />
+    <!-- GitHub Productive Time -->
     <a href="https://github.com/Chris1320">
         <picture>
             <source
