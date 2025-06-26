@@ -14,15 +14,15 @@
                 <td>
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
+                            src="https://skillicons.dev/icons?perline=5&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
                             alt="Backend Technologies"
                         />
                     </picture>
@@ -33,15 +33,15 @@
                 <td>
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
+                            src="https://skillicons.dev/icons?perline=5&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
                             alt="Frontend Technologies"
                         />
                     </picture>
@@ -52,15 +52,15 @@
                 <td>
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&i=mysql%2Cpostgres%2Csqlite"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=mysql%2Cpostgres%2Csqlite"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&i=mysql%2Cpostgres%2Csqlite"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=mysql%2Cpostgres%2Csqlite"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite"
+                            src="https://skillicons.dev/icons?perline=5&i=mysql%2Cpostgres%2Csqlite"
                             alt="Database Technologies"
                         />
                     </picture>
@@ -71,15 +71,15 @@
                 <td>
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
+                            src="https://skillicons.dev/icons?perline=5&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
                             alt="DevOps/Cloud Technologies"
                         />
                     </picture>
@@ -90,15 +90,15 @@
                 <td>
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?i=ae%2Cau%2Cfigma%2Cpr%2Cps"
+                            src="https://skillicons.dev/icons?perline=5&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
                             alt="Media Editing"
                         />
                     </picture>
@@ -109,15 +109,15 @@
                 <td>
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
+                            src="https://skillicons.dev/icons?perline=5&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
                             alt="IDEs/Editors"
                         />
                     </picture>
@@ -128,15 +128,15 @@
                 <td>
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
+                            src="https://skillicons.dev/icons?perline=5&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
                             alt="Operating Systems"
                         />
                     </picture>
