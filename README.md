@@ -208,12 +208,12 @@
         </picture>
         <picture>
             <source
-                height="200"
+                height="150"
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=gotham"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="200"
+                height="150"
                 srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chris1320&theme=vue"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
@@ -224,17 +224,17 @@
         </picture>
         <picture>
             <source
-                height="200"
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris1320&theme=gotham"
+                height="150"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris1320&theme=gotham&utcOffset=+8"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="200"
-                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris1320&theme=vue"
+                height="150"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris1320&theme=vue&utcOffset=+8"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img
-                src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris1320"
+                src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chris1320&utcOffset=+8"
                 alt="Profile Details"
             />
         </picture>
@@ -242,12 +242,12 @@
     <a href="https://github.com/Chris1320?tab=repositories">
         <picture>
             <source
-                height="200"
+                height="150"
                 srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="200"
+                height="150"
                 srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=vue"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
@@ -261,12 +261,12 @@
     <a href="https://github.com/Chris1320">
         <picture>
             <source
-                height="175"
+                height="125"
                 srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=gotham&card_width=320"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="175"
+                height="125"
                 srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=vue&card_width=320"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
@@ -279,12 +279,12 @@
     <a href="https://wakatime.com/@Chris3120">
         <picture>
             <source
-                height="175"
+                height="125"
                 srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=gotham&card_width=320"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                height="175"
+                height="125"
                 srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=vue&card_width=320"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
