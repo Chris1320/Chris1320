@@ -260,16 +260,16 @@
         <picture>
             <source
                 height="200"
-                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=gotham"
+                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=gotham&card_width=320"
                 media="(prefers-color-scheme: dark)"
             />
             <source
                 height="200"
-                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=vue"
+                srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=vue&card_width=320"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img
-                src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en"
+                src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&card_width=320"
                 alt="GitHub Stats"
             />
         </picture>
@@ -278,16 +278,16 @@
         <picture>
             <source
                 height="200"
-                srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=gotham"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=gotham&card_width=320"
                 media="(prefers-color-scheme: dark)"
             />
             <source
                 height="200"
-                srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=vue"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=vue&card_width=320"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img
-                src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en"
+                src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&card_width=320"
                 alt="Wakatime Stats"
             />
         </picture>
