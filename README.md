@@ -255,7 +255,7 @@
     </picture>
 </a>
 <br />
-<a href="https://github.com/Chris1320?tab=repositories">
+<!-- <a href="https://github.com/Chris1320?tab=repositories">
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
@@ -271,7 +271,7 @@
         />
     </picture>
 </a>
-<br />
+<br /> -->
 <a href="https://wakatime.com/@Chris3120">
     <picture>
         <source
