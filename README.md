@@ -1,61 +1,240 @@
+<!-- markdownlint-disable MD033 MD041 -->
+
 <div align="center">
-    <h1>Hi, call me Chris.</h1>
+    <!-- Header -->
+    <h1>Hi 👋, call me Chris.</h1>
     <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology.</p>
     <br/>
+    <!-- Toolkit -->
     <table>
         <thead><td colspan="2"><b>Toolkit</b></td></thead>
         <tbody>
             <tr>
-                <td>Languages</td>
-                <td><img src="https://skillicons.dev/icons?i=py,lua,cs,java,c,typescript,bash"/></td>
+                <td>Backend Technologies</td>
+                <td>
+                    <picture>
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=dark&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=light&i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img
+                            src="https://skillicons.dev/icons?i=py%2Clua%2Ccs%2Cc%2Cbash%2Cgo%2Ckotlin%2Cbun%2Cfastapi%2Cflask"
+                            alt="Backend Technologies"
+                        />
+                    </picture>
+                </td>
             </tr>
             <tr>
-                <td>Frameworks/Services</td>
-                <td><img src="https://skillicons.dev/icons?i=cloudflare,flask,git,postgres,qt,react,vue"/></td>
+                <td>Frontend Technologies</td>
+                <td>
+                    <picture>
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=dark&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=light&i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img
+                            src="https://skillicons.dev/icons?i=html%2Ccss%2Cts%2Cnuxtjs%2Cnextjs%2Cvue%2Creact%2Ctailwind"
+                            alt="Frontend Technologies"
+                        />
+                    </picture>
+                </td>
+            </tr>
+            <tr>
+                <td>Database Technologies</td>
+                <td>
+                    <picture>
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=dark&i=mysql%2Cpostgres%2Csqlite"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=light&i=mysql%2Cpostgres%2Csqlite"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img
+                            src="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite"
+                            alt="Database Technologies"
+                        />
+                    </picture>
+                </td>
+            </tr>
+            <tr>
+                <td>DevOps/Cloud Technologies</td>
+                <td>
+                    <picture>
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=dark&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=light&i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img
+                            src="https://skillicons.dev/icons?i=aws%2Ccloudflare%2Cdocker%2Cfirebase%2Cgcp%2Cgit%2Cgithub%2Cgithubactions"
+                            alt="DevOps/Cloud Technologies"
+                        />
+                    </picture>
+                </td>
             </tr>
             <tr>
                 <td>Media Editing</td>
-                <td><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,au"/></td>
+                <td>
+                    <picture>
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=dark&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=light&i=ae%2Cau%2Cfigma%2Cpr%2Cps"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img
+                            src="https://skillicons.dev/icons?i=ae%2Cau%2Cfigma%2Cpr%2Cps"
+                            alt="Media Editing"
+                        />
+                    </picture>
+                </td>
             </tr>
             <tr>
-                <td>IDEs/Code Editors</td>
-                <td><img src="https://skillicons.dev/icons?i=neovim,vscode,idea,visualstudio"/></td>
+                <td>IDEs/Editors</td>
+                <td>
+                    <picture>
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=dark&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=light&i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img
+                            src="https://skillicons.dev/icons?i=neovim%2Cvscode%2Crider%2Cclion%2Cidea%2Cvisualstudio%2Cobsidian"
+                            alt="IDEs/Editors"
+                        />
+                    </picture>
+                </td>
+            </tr>
+            <tr>
+                <td>Operating Systems</td>
+                <td>
+                    <picture>
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=dark&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <source
+                            srcset="https://skillicons.dev/icons?theme=light&i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img
+                            src="https://skillicons.dev/icons?i=windows%2Carch%2Cdebian%2Ckali%2Cmint"
+                            alt="Operating Systems"
+                        />
+                    </picture>
+                </td>
             </tr>
         </tbody>
     </table>
-    <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge"></img>
+    <!-- Badges -->
+    <div>
+        <a href="https://github.com/Chris1320">
+            <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+        </a>
+        <a href="https://github.com/Chris1320?tab=followers">
+            <img src="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" alt="Followers" />
+        </a>
+        <a href="https://github.com/Chris1320?tab=repositories&q=&type=&language=&sort=stargazers">
+            <img src="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" alt="Stars" />
+        </a>
+        <a href="mailto:work@chrisfromnowhere.me"> <!-- TODO: Redirect to portfolio site -->
+            <img src="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" alt="Hireable" />
+        </a>
+    </div>
 </div>
 <hr/>
-<p>You can contact me using the following:</p>
-<ul>
-    <li>Email: <a href="mailto:me@chrisfromnowhere.me"><i>me@chrisfromnowhere.me</i></a></li>
-    <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
-</ul>
-
-<h2>Currently Active Public Projects</h2>
-<a href="https://github.com/SetupGuides/Neovim">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=SetupGuides&repo=Neovim&theme=gotham&show_icons=true&locale=en" align="center"></img>
-</a>
-<a href="https://github.com/Chris1320/Genesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=Genesis&theme=gotham&show_icons=true&locale=en" align="center"></img>
-</a>
-<a href="https://github.com/Chris1320/inTransit">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=inTransit&theme=gotham&show_icons=true&locale=en" align="center"></img>
-</a>
-<a href="https://github.com/Chris1320/copyt">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Chris1320&repo=copyt&theme=gotham&show_icons=true&locale=en" align="center"></img>
-</a>
-
+<div>
+    <!-- Contact Info -->
+    <p>You can contact me using the following:</p>
+    <ul>
+        <li>Email: <a href="mailto:me@chrisfromnowhere.me"><i>me@chrisfromnowhere.me</i></a></li>
+        <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
+    </ul>
+    <p>For professional or work-related inquiries, please use the following contact methods:</p>
+    <ul>
+        <li>Email: <a href="mailto:work@chrisfromnowhere.me"><i>work@chrisfromnowhere.me</i></a></li>
+    </ul>
+</div>
 <hr/>
 <a href="https://github.com/Chris1320">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&theme=gotham&show_icons=true" align="center"></img>
+    <picture>
+        <source
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris1320&show_icons=true&hide_border=true&locale=en"
+            alt="Profile Details"
+        />
+    </picture>
 </a>
 <a href="https://wakatime.com/@Chris3120">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&theme=gotham&show_icons=true&locale=en" align="center"></img>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=gotham"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris3120&show_icons=true&hide_border=true&locale=en"
+            alt="Wakatime Stats"
+        />
+    </picture>
 </a>
 <a href="https://github.com/Chris1320?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&theme=gotham&show_icons=true&locale=en" align="center"></img>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=gotham"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris1320&show_icons=true&hide_border=true&locale=en"
+            alt="Top Languages Used"
+        />
+    </picture>
 </a>
 <a href="https://github.com/Chris1320">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&theme=gotham&show_icons=true&locale=en" align="center"></img><br/>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=gotham"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=Chris1320&count_private=true&show_icons=true&hide_border=true&locale=en"
+            alt="GitHub Stats"
+        />
+    </picture>
 </a>
