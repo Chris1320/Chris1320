@@ -147,16 +147,32 @@
     <!-- Badges -->
     <div>
         <a href="https://github.com/Chris1320">
-            <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+            <picture>
+                <source srcset="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+            </picture>
         </a>
         <a href="https://github.com/Chris1320?tab=followers">
-            <img src="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" alt="Followers" />
+            <picture>
+                <source srcset="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/github/followers/Chris1320?color=red&style=for-the-badge" alt="Followers" />
+            </picture>
         </a>
         <a href="https://github.com/Chris1320?tab=repositories&q=&type=&language=&sort=stargazers">
-            <img src="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" alt="Stars" />
+            <picture>
+                <source srcset="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/github/stars/Chris1320?color=yellow&style=for-the-badge" alt="Stars" />
+            </picture>
         </a>
         <a href="mailto:work@chrisfromnowhere.me"> <!-- TODO: Redirect to portfolio site -->
-            <img src="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" alt="Hireable" />
+            <picture>
+                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" alt="Hireable" />
+            </picture>
         </a>
     </div>
 </div>
