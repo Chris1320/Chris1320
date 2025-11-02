@@ -48,7 +48,9 @@
         </ul>
     </div>
     <br />
-    <p><a href="https://chrisfromnowhere.me/">Visit My Website</a></p>
+    <a href="https://chrisfromnowhere.me/">
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fchrisfromnowhere.me&style=for-the-badge&label=Visit%20My%20Website" alt="Visit My Website">
+    </a>
     <br />
     <!-- Toolkit -->
     <table>
