@@ -12,7 +12,7 @@
                 <img src="https://komarev.com/ghpvc/?username=Chris1320&color=blueviolet&style=for-the-badge" alt="Profile Views" />
             </picture>
         </a>
-        <a href="https://wakapi.chrisfromnowhere.me/"> <!-- TODO: Wakapi profile -->
+        <a href="https://wakapi.chrisfromnowhere.me/">
             <picture>
                 <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.chrisfromnowhere.me%2Fapi%2Fcompat%2Fshields%2Fv1%2FChris%2Finterval%3A7_days&style=for-the-badge&label=Last%20Activity" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -28,9 +28,9 @@
         </a>
         <a href="https://chrisfromnowhere.me">
             <picture>
-                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                <img src="https://img.shields.io/badge/Open%20for%20Work-Yes-Green?style=for-the-badge" alt="Hireable" />
+                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Cyan?style=for-the-badge" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://img.shields.io/badge/Open%20for%20Work-Yes-Cyan?style=for-the-badge" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                <img src="https://img.shields.io/badge/Open%20for%20Work-Yes-Cyan?style=for-the-badge" alt="Hireable" />
             </picture>
         </a>
     </div>
@@ -41,16 +41,21 @@
         </div>
         <ul>
             <li>Email: <a href="mailto:me@chrisfromnowhere.me"><i>me@chrisfromnowhere.me</i></a></li>
+            <li>Instagram: <a href="https://www.instagram.com/nocheeseleft/"><i>@nocheeseleft</i></a></li>
+            <li>Matrix: <a href="https://matrix.to/#/@chris1320:matrix.org"><i>@chris1320:matrix.org</i></a></li>
         </ul>
         <p>For professional or work-related inquiries, please use the following contact methods:</p>
         <ul>
             <li>Email: <a href="mailto:chris.tayao@chrisfromnowhere.me"><i>chris.tayao@chrisfromnowhere.me</i></a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/christopherandreitayao"><i>/in/christopherandreitayao</i></a></li>
         </ul>
     </div>
     <br />
     <a href="https://chrisfromnowhere.me/">
         <img src="https://img.shields.io/website?url=https%3A%2F%2Fchrisfromnowhere.me&style=for-the-badge&label=Visit%20My%20Website" alt="Visit My Website">
     </a>
+    <br />
+    <hr />
     <br />
     <!-- Toolkit -->
     <table>
