@@ -47,7 +47,7 @@
         <p>For professional or work-related inquiries, please use the following contact methods:</p>
         <ul>
             <li>Email: <a href="mailto:chris.tayao@chrisfromnowhere.me"><i>chris.tayao@chrisfromnowhere.me</i></a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/christopherandreitayao"><i>/in/christopherandreitayao</i></a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/christopherandreitayao"><i>in/christopherandreitayao</i></a></li>
         </ul>
     </div>
     <br />
