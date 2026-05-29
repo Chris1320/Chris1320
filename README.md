@@ -37,7 +37,7 @@
     <!-- Description & Contact Info -->
     <div align="left">
         <div align="center">
-            <p>I am currently a BS Computer Science student, aiming to be a full-stack developer. I like doing random things that are related to computers and technology. You can contact me in the following platforms:</p>
+            <p>I am a full-stack software developer, trying to automate a lot of boring stuff. I like doing random things that are related to computers and technology. You can contact me in the following platforms:</p>
         </div>
         <ul>
             <li>Email: <a href="mailto:me@chrisfromnowhere.me"><i>me@chrisfromnowhere.me</i></a></li>
