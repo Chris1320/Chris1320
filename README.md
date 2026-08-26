@@ -52,7 +52,10 @@
     </div>
     <br />
     <a href="https://chrisfromnowhere.me/">
-        <img src="https://img.shields.io/website?url=https%3A%2F%2Fchrisfromnowhere.me&style=for-the-badge&label=Visit%20My%20Website" alt="Visit My Website">
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fchrisfromnowhere.me&style=for-the-badge&label=chrisfromnowhere.me" alt="chrisfromnowhere.me">
+    </a>
+    <a href="https://677078.xyz/">
+        <img src="https://img.shields.io/website?url=https%3A%2F%2F677078.xyz&style=for-the-badge&label=677078.xyz" alt="677078.xyz">
     </a>
     <br />
     <hr />
