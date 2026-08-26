@@ -88,15 +88,15 @@
                 <td align="left">
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=nuxtjs%2Cnextjs%2Ctailwind"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=astro%2Cnuxtjs%2Cnextjs%2Ctailwind"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=nuxtjs%2Cnextjs%2Ctailwind"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=astro%2Cnuxtjs%2Cnextjs%2Ctailwind"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?perline=5&i=nuxtjs%2Cnextjs%2Ctailwind"
+                            src="https://skillicons.dev/icons?perline=5&i=astro%2Cnuxtjs%2Cnextjs%2Ctailwind"
                             alt="Frontend Technologies"
                         />
                     </picture>
