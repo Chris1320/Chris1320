@@ -69,15 +69,15 @@
                 <td align="left">
                     <picture>
                         <source
-                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=py%2Ccs%2Cbun%2Cfastapi%2Cflask"
+                            srcset="https://skillicons.dev/icons?theme=dark&perline=5&i=py%2Cgo%2Cbun%2Cfastapi%2Cflask"
                             media="(prefers-color-scheme: dark)"
                         />
                         <source
-                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=py%2Ccs%2Cbun%2Cfastapi%2Cflask"
+                            srcset="https://skillicons.dev/icons?theme=light&perline=5&i=py%2Cgo%2Cbun%2Cfastapi%2Cflask"
                             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                         />
                         <img
-                            src="https://skillicons.dev/icons?perline=5&i=py%2Ccs%2Cbun%2Cfastapi%2Cflask"
+                            src="https://skillicons.dev/icons?perline=5&i=py%2Cgo%2Cbun%2Cfastapi%2Cflask"
                             alt="Backend Technologies"
                         />
                     </picture>
